@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width:1080px;
+    margin:0 auto;
+    text-align: center;
+}
+.query_token{
+    margin-top: 18%;
+}
